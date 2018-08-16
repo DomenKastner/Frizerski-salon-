@@ -1,3 +1,3 @@
-Spoznavanje z Bootstrapom 3 in Git-om
+Learning Bootstrap 3
 
 [Frizerski salon](https://frizeraj-195219.appspot.com/index.html#)
